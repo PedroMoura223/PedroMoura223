@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Opa 👋, Meu nome é Pedro Moura
+## Opa 👋, Obrigado por acessar meu perfil :)
 
 <div style="display: inline_block">
 - 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais SMD UFC<br>
