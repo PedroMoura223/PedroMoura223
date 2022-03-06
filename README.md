@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="44" height="44" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
- <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="45" height="45" src="https://img.icons8.com/nolan/64/parse-resumes.png"></a>
+ <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="47" height="47" src="https://img.icons8.com/nolan/64/parse-resumes.png"></a>
   <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="40" height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"></a>
 </div><br>
 
