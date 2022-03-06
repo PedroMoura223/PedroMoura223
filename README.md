@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="39" height="39" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
  <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="40" height="40" src="https://img.icons8.com/nolan/64/parse-resumes.png"></a>
+  <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="40" height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"></a>
 </div><br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
 <br>
 
 
