@@ -14,19 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá 👋, sou Guilherme Rodrigues
+## Opa 👋, Meu nome é Pedro Moura
 
 <div style="display: inline_block">
-- 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas <br>
+- 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais SMD <br>
 - ⚡ Técnico em Informática <br>
-- 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
-- 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
+- 👨‍💻 Dê uma olhada nos meus projetos <br>
+- 📫 Meu Email é pedrosousas223@gmail.com
 </div>
   
 ## Vamos nos conectar no linkedin
 
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+</div><br>
+
+## Dê uma olhada no meu Currículo
+
+<div style="display: inline_block">
+<a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </div><br>
 
 ## Tecnologias que eu uso no meu dia
