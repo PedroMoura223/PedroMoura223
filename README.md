@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## Opa 👋, Meu nome é Pedro Moura
 
 <div style="display: inline_block">
-- 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais SMD <br>
+- 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais SMD UFC<br>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Dê uma olhada nos meus projetos <br>
 - 📫 Meu Email é pedrosousas223@gmail.com
 </div>
 <br>
 <p align="left"> 
- 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
+ 🖖 Olá, meu nome é Pedro Moura. Sou <strong>Estudante</strong> e <strong>Desenvlvedor Back End</strong>.
 </p>
 
 <p align="left">
