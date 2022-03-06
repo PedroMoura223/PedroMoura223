@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <p align="left"> 
- 🖖 Olá, meu nome é Pedro Moura. Sou <strong>Estudante</strong> e <strong>Desenvolvedor Back End</strong>.
+ 🖖 Olá, meu nome é Pedro Moura, tenho 18 anos. Sou <strong>Estudante</strong> e <strong>Desenvolvedor Back End</strong>.
 </p>
 
 <p align="left">
