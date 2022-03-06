@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   💼 Ferramentas: <strong>VS Code, WordPress, Git e GitHub.</strong>
 </p>
   
-## Meu Linkedin / Currículo
+## Meu Linkedin / Currículo / Email
 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="39" height="39" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
