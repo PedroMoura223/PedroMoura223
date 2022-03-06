@@ -42,6 +42,7 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="40" height="40" src="https://img.icons8.com/nolan/64/parse-resumes.png"></a>
 </div><br>
 <br>
+<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ## Tecnologias que Uso
