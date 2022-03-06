@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="39" height="39" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
  <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="35" height="35" src="https://img.icons8.com/color-glass/48/000000/resume.png"></a>
 </div><br>
-
+<br>
 
 
 ## Tecnologias que eu Uso
