@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## Meu Linkedin / Currículo
 
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="40" height="40" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="39" height="39" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
  <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="35" height="35" src="https://img.icons8.com/color-glass/48/000000/resume.png"></a>
 </div><br>
 
