@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Opa 👋, Obrigado por acessar meu perfil :)
 
 <div style="display: inline_block">
-- 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais SMD UFC<br>
+- 👨🏻‍🎓 Graduando em Sistemas e Mídias Digitais - UFC<br>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Dê uma olhada nos meus projetos <br>
 - 📫 Meu Email é pedrosousas223@gmail.com
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://drive.google.com/file/d/1GEh2qrM0dsOgi_FrUcljxye0LpqfixDg/view?usp=sharing" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </div><br>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
