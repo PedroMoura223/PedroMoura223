@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, PHP, Java, MVC, PDO.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, WordPress, Git e GitHub.</strong>
 </p>
   
 ## Meu Linkedin
