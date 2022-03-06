@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## Dê uma olhada no meu Currículo
 
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://drive.google.com/file/d/1GEh2qrM0dsOgi_FrUcljxye0LpqfixDg/view?usp=sharing" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </div><br>
 
 ## Tecnologias que eu uso no meu dia
