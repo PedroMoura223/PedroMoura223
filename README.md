@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 Meu Email é pedrosousas223@gmail.com
 </div>
   
-## Vamos nos conectar no linkedin
+## Meu Linkedin
 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
