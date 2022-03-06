@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/pedro-moura-265a31233/" target="_blank"><img align="left" width="44" height="44" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
  <a href="https://drive.google.com/file/d/1GEh2qrM0dsOgi_FrUcljxye0LpqfixDg/view?usp=sharing" target="_blank"><img align="left" width="47" height="47" src="https://img.icons8.com/nolan/64/parse-resumes.png"></a>
-  <a href="mailto:pedrosousas223@gmail.com" target="_blank"><img align="left" width="39" height="39" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"></a>
+  <a href="mailto:pedrosousas223@gmail.com" target="_blank"><img align="left" width="37" height="37" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"></a>
 </div><br>
 
 <br>
