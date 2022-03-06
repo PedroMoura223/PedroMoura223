@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Dê uma olhada nos meus projetos <br>
 - 📫 Meu Email é pedrosousas223@gmail.com
 </div>
-
+<br>
 <p align="left"> 
  🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
 </p>
