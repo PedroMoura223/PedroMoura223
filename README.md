@@ -22,6 +22,18 @@ Here are some ideas to get you started:
 - 👨‍💻 Dê uma olhada nos meus projetos <br>
 - 📫 Meu Email é pedrosousas223@gmail.com
 </div>
+
+<p align="left"> 
+ 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
+</p>
+
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
+</p>
   
 ## Meu Linkedin
 
