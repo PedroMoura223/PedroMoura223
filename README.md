@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, PHP, Java, MVC, PDO, SQL, Vue.js</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, PHP, Java, MVC, PDO, SQL, Vue</strong>
 </p>
 
 <p align="left">
